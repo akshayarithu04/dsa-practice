@@ -13,5 +13,8 @@ and they come up constantly in interviews.
 | # | Algorithm | Difficulty | Solution |
 |---|-----------|-----------|----------|
 | 1 | Selection Sort | Easy | [Link](SelectionSort.java) |
+| 2 | Bubble Sort | Easy | [Link](BubbleSort.java) |
+| 3 | Insertion Sort | Easy | [Link](InsertionSort.java) |
 
-**Total: 1 problem ✅**
+
+**Total: 3 problem ✅**
