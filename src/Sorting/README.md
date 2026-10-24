@@ -15,6 +15,7 @@ and they come up constantly in interviews.
 | 1 | Selection Sort | Easy | [Link](SelectionSort.java) |
 | 2 | Bubble Sort | Easy | [Link](BubbleSort.java) |
 | 3 | Insertion Sort | Easy | [Link](InsertionSort.java) |
+| 4 | Merge Sort | Medium | [Link](MergeSort.java) |
 
 
-**Total: 3 problem ✅**
+**Total: 4 problem ✅**
