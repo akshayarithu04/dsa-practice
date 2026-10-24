@@ -4,7 +4,7 @@
 |-------|--------|--------|
 | Basic Maths | 13 | 🟡 In progress |
 | Patterns | 22 | 🟡 In progress |
-| Sorting | 4 | 🟡 In progress |
+| Sorting | 5 | 🟡 In progress |
 | Arrays | 0 | ⏳ Upcoming |
 | Strings | 0 | ⏳ Upcoming |
 | Recursion | 0 | ⏳ Upcoming |
@@ -14,7 +14,7 @@
 | Graphs | 0 | ⏳ Upcoming |
 | DP | 0 | ⏳ Upcoming |
 
-**Total solved: 39** 🔥
+**Total solved: 40** 🔥
 
 ## 📂 Topics
 - [Basic Maths](src/BasicMaths) - number-based fundamentals
